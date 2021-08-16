@@ -12,6 +12,9 @@ Require this package with composer using the following command:
 composer require g4t/chooch
 ```
 
+```sh
+php artisan vendor:publish --provider=g4t\Chooch\ChoochServiceProvider
+```
 
 
 ## Usage
