@@ -9,7 +9,7 @@
 Require this package with composer using the following command:
 
 ```sh
-$ composer require g4t/chooch
+composer require g4t/chooch
 ```
 
 
