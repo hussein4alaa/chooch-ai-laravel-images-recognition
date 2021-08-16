@@ -1,0 +1,21 @@
+{
+    "name": "g4t/chooch",
+    "description": "package for chooch ai . Chooch AI is a flexible computer vision platform for quickly creating accurate, useful AI models and deploying to the edge fast.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "g4t\\Chooch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HusseinAlaa",
+            "email": "hussein4alaa@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
