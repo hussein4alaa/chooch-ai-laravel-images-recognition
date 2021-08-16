@@ -11,6 +11,13 @@
             "g4t\\Chooch\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "g4t\\Chooch\\ChoochServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "HusseinAlaa",
