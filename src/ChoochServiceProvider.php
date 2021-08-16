@@ -4,7 +4,7 @@ namespace g4t\Chooch;
 
 use Illuminate\Support\ServiceProvider;
 
-class PatternServiceProvider extends ServiceProvider
+class ChoochServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
