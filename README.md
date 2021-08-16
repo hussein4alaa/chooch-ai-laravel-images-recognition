@@ -18,7 +18,7 @@ composer require g4t/chooch
 ##### in your `env` file add `chooch_token="token"`
 ##### register here to get token `https://app.chooch.ai/` and create model to get `model_id`
 
-## Add the Chooch to your Controller.
+## Add Chooch to your Controller.
 ```sh
 use g4t\Chooch\Chooch;
 ```
